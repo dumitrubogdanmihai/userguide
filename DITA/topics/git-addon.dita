@@ -12,11 +12,7 @@
     </metadata>
   </prolog>
   <body>
-    <p id="p_gyg_dgk_54b">An add-on is available that contributes a built-in Git client directly in <ph
-        keyref="product"/>. Once the add-on is installed, a <uicontrol>Git Staging</uicontrol> view
-      is available that includes various actions that perform common Git commands, such as
-        <codeph>push</codeph>, <codeph>pull</codeph>, <codeph>change branch</codeph>, <codeph>commit</codeph>, and more. It also includes a
-      built-in tool for comparing and merging changes.</p>
+    <p id="p_gyg_dgk_54b">A built-in Git client is available as an add-on for <ph keyref="product"/>. After installing the add-on, you can access the <uicontrol>Git Staging</uicontrol> view, which provides actions for common Git commands such as <codeph>push</codeph>, <codeph>pull</codeph>, <codeph>change branch</codeph>, <codeph>commit</codeph>, and more. The add-on also offers integrated tools for comparing and merging changes.</p>
     <section id="section_fqc_23y_kpb">
       <title>Manual Installation</title>
       <p id="p_hyg_dgk_54b">To manually install the add-on, follow this procedure:<ol
