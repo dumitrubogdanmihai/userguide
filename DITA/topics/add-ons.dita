@@ -197,4 +197,10 @@
                     <div class="grid-item">
                         <a
                             href="xsd-to-json-schema-converter-x2.html"
-                            title="Converting an XML Schema file (XSD) to a JSON Schema file">XSD to
+                            title="Converting an XML Schema file (XSD) to a JSON Schema file">XSD to JSON Schema Converter</a>
+                    </div>
+                </div>
+            </div>
+        ]]></foreign>
+  </body>
+</topic>
