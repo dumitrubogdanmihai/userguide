@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="about-view">
+  <title>About View</title>
+  <body>
+    <p>The About View provides information about the application, including version details, licensing, and credits. It is typically accessed from the Help menu and is useful for verifying the current version and other metadata about your installation.</p>
+  </body>
+</topic>
