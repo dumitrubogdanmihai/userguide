@@ -24,11 +24,11 @@
         <li id="li_msg_dgk_54b">Go to <menucascade>
             <uicontrol>Help</uicontrol>
             <uicontrol>Install new add-ons</uicontrol>
-          </menucascade> to open an add-on selection dialog box. </li>
+          </menucascade> to open an add-on selection dialog box.</li>
         <li id="li_nsg_dgk_54b">Enter or paste <b>https://www.oxygenxml.com/InstData/Addons/default/updateSite.xml</b>
           in the <uicontrol>Show add-ons from</uicontrol> field or select it from the drop-down
           menu.</li>
-        <li id="li_osg_dgk_54b">Select the add-on you want to install and click <uicontrol>Next</uicontrol>. </li>
+        <li id="li_osg_dgk_54b">Select the add-on you want to install and click <uicontrol>Next</uicontrol>.</li>
         <li id="li_psg_dgk_54b">Read the end-user license agreement. Then select the <uicontrol>I accept all terms of
         the end-user license agreement</uicontrol> option and click <uicontrol>Finish</uicontrol>.</li>
         <li id="li_qsg_dgk_54b">Restart the application.</li>
@@ -74,7 +74,7 @@
                 <div class="grid-container">
                     <div class="grid-item">
                         <a href="git-addon.html"
-                            title="Checkout and Work with a Git Repository">Git Client</a>
+                            title="Check out and work with a Git repository">Git Client</a>
                     </div>
                     <div class="grid-item">
                         <a
@@ -96,7 +96,7 @@
                     <div class="grid-item">
                         <a
                             href="batch-converter-addon.html"
-                            title="Convert various document tpes like HTML, Markdown, Word, Excel to XML formats like DITA XML, DocBook, XHTML"
+                            title="Convert various document types like HTML, Markdown, Word, and Excel to XML formats like DITA XML, DocBook, and XHTML"
                             >Batch Documents Converter</a>
                     </div>
                 </div>
@@ -113,7 +113,7 @@
                     <div class="grid-item">
                         <a
                             href="dita-outgoing-references-addon.html"
-                            title="See  all outgoing and incoming references for the current DITA topic."
+                            title="See all outgoing and incoming references for the current DITA topic."
                             >DITA References View</a>
                     </div>
                 </div>
@@ -168,7 +168,7 @@
                     <div class="grid-item">
                         <a
                             href="writer-helper-addon.html"
-                            title="Helps technical writers review, find similar content and provides productivity tips."
+                            title="Helps technical writers review, find similar content, and provides productivity tips."
                             >Writer Helper (Experimental)</a>
                     </div>
                     <div class="grid-item">
@@ -198,72 +198,3 @@
                         <a
                             href="xsd-to-json-schema-converter-x2.html"
                             title="Converting an XML Schema file (XSD) to a JSON Schema file">XSD to
-                            JSON Schema Converter</a>
-                    </div>
-                    <div class="grid-item">
-                        <a
-                            href="generate-java-classes-x2.html"
-                            title="Generate Java classes from an XML Schema (XSD) file">Generate
-                            Java Classes from XML Schema</a>
-                    </div>
-                    <div class="grid-item">
-                        <a
-                            href="json-schema-documentation-generator-x.html"
-                            title="Generate documentation for a JSON Schema file in HTML format"
-                            >Generating JSON Schema Documentation</a>
-                    </div>
-                    <div class="grid-item">
-                        <a
-                            href="openapi-tester-x.html"
-                            title="Testing tool for OpenAPI files">OpenAPI Tester</a>
-                    </div>
-                    <div class="grid-item">
-                        <a
-                            href="openapi-documentation-generator-x2.html"
-                            title="Generate documentation for OpenAPI components in HTML format, including annotations and cross references"
-                            >Generate OpenAPI Documentation</a>
-                    </div>
-                    <div class="grid-item">
-                        <a
-                            href="icu4j-library-addon.html"
-                            title="Adds provides the entire ICU4J JAR library used for sorting and collations with the Saxon XSLT processor."
-                            >ICU4J Library Add-on</a>
-                    </div>
-                </div>
-            </div>
-            <div class="componentWrapper">
-                <div class="componentTitle">Others</div>
-                <div class="grid-container two-columns">
-                    <div class="grid-item">
-                        <a
-                            href="docbook-checker-addon.html"
-                            title="Reports issues such as broken internal and external links, problems with images, or profiling conditions that conflict with profiling preferences in Docbook 4 or 5 XML documents"
-                            >DocBook Checker</a>
-                    </div>
-                    <div class="grid-item">
-                        <a href="cgm-addon.html"
-                            title="Experimental support for rendering CGM 1.0 images in the Author visual editing mode"
-                            >CGM Image Support</a>
-                    </div>
-                </div>
-            </div>
-        </div>]]></foreign>
-    <section id="section_v54_rr5_ypb">
-      <title>Resources</title>
-      <p id="p_w54_rr5_ypb">For more information about extending <ph keyref="product"/> through
-        add-ons, see the following webinars/presentations:<ul id="ul_up1_54z_vrb">
-          <li id="li_vp1_54z_vrb"><xref
-              href="https://www.oxygenxml.com/events/2020/webinar_extending_the_functionality_of_Oxygen_using_add_ons.html"
-              format="html" scope="external"><b>Webinar: Extending the Functionality of Oxygen Using
-                Add-ons</b></xref></li>
-          <li id="li_l3k_54z_vrb"><xref
-              href="https://www.oxygenxml.com/events/2021/webinar_add_ons_you_can_use_for_technical_writing.html"
-              format="html" scope="external"><b>Webinar: Add-ons You Can Use for Technical
-                Writing</b></xref></li>
-          <li id="li_kld_zx1_jsb"><xref href="https://www.youtube.com/watch?v=RqnsdLgCgog"
-              format="html" scope="external"><b>XML Prague Conference Presentation: All About Oxygen
-                Add-ons</b></xref></li>
-        </ul></p>
-    </section>
-  </body>
-</topic>
