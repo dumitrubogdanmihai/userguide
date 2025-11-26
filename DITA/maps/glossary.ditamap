@@ -114,4 +114,5 @@
   <glossref href="../glossary/xml-catalog.dita" print="yes" toc="yes"
     product="author developer editor authorEclipse developerEclipse editorEclipse json"
     keys="glossentry_xml-catalog"/>
+  <glossref href="../glossary/add-ons.dita" print="yes" toc="yes" product="author developer editor json" keys="glossentry_add-ons"/>
 </map>
