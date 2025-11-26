@@ -4,6 +4,6 @@
 <topic id="about-view">
   <title>About View</title>
   <body>
-    <p>The About View provides information about the application, including version details, licensing, and credits. It is typically accessed from the Help menu and is useful for verifying the current version and other metadata about your installation.</p>
+    <p>The About view provides information about the application, including version details, licensing, and credits. Use this view to verify your installation and access legal or support information.</p>
   </body>
 </topic>
