@@ -73,7 +73,10 @@
   <chapter href="maps/chapter-extending-eclipse.ditamap.ditamap" format="ditamap"
     product="authorEclipse developerEclipse editorEclipse"/>
   <chapter href="maps/chapter-svn-client.ditamap" format="ditamap" collection-type="sequence"
-    product="svnClient"/>
+    product="svnClient">
+    <topicref href="topics/annotations-view.dita"/>
+    <topicref href="topics/about-view.dita"/>
+  </chapter>
   <chapter href="chapter-working-with-databases.ditamap"
     product="editor editorEclipse author authorEclipse developer developerEclipse"
     collection-type="sequence" format="ditamap"/>
@@ -130,7 +133,7 @@
       type="subjectScheme" product="webhelp-responsive"/>
     <mapref href="maps/classification/webhelp-responsive-classification.ditamap"
       processing-role="resource-only" product="webhelp-responsive"/>
-
+    
     <mapref href="maps/classification/pdf-css-subject-scheme.ditamap" type="subjectScheme"
       product="pdf-css"/>
     <mapref href="maps/classification/pdf-css-classification.ditamap"
